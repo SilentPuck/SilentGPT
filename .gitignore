@@ -1,0 +1,22 @@
+# Compiled binaries
+silentgpt
+test_input
+*.o
+*.out
+*.a
+*.so
+
+# Build dir
+build/
+
+# Editor/OS specific
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+
+# Configs and secrets
+config/*.enc
+history/chat_*.enc
+history/export.json
