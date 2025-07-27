@@ -49,6 +49,16 @@ make
 This will compile the binary `./silentgpt`
 
 ---
+📦 Precompiled Binary
+
+You can download the latest release (Linux x86_64):
+
+```bash
+wget https://github.com/SilentPuck/SilentGPT/releases/download/v1.0/silentgpt
+chmod +x silentgpt
+./silentgpt --token <name> --secure
+```
+---
 
 Usage
 -----
