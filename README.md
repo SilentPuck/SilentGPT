@@ -1,5 +1,7 @@
 SilentGPT 🕶️
 =========
+🔽 [Download Binary (Linux x86_64)](https://github.com/SilentPuck/SilentGPT/releases/download/v1.0/silentgpt)
+
 
 SilentGPT is a fully local terminal-based AI chat tool written in C.
 It provides secure encrypted storage of chats and supports multiple API keys with optional password protection.
